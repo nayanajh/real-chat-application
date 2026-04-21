@@ -24,4 +24,7 @@ Overall, this project demonstrates the effective implementation of real-time com
 In conclusion, the Real-Time Chat Application successfully provides a fast, interactive, and user-friendly communication platform. It serves as a strong foundation for developing advanced real-time systems and showcases practical knowledge of full-stack web development, making it highly suitable for academic and professional purposes.
 
 
-##OUTPUT
+##OUTPUT 
+<img width="1649" height="940" alt="Image" src="https://github.com/user-attachments/assets/98ca2147-3f22-45f4-9fbd-216ea018633b" />
+
+<img width="1409" height="916" alt="Image" src="https://github.com/user-attachments/assets/8a5b4040-ccb9-407c-a262-939ce3968217" />
